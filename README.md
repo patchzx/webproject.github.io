@@ -1,5 +1,1 @@
-# webproject.github.io![start](https://github.com/patchzx/webproject.github.io/assets/136941500/0c5df3c3-8c15-4c07-bf70-901ade7717e1)
-![html](https://github.com/patchzx/webproject.github.io/assets/136941500/01f75ec2-f090-479c-aa89-68a8cbcbaf41)
-![finish](https://github.com/patchzx/webproject.github.io/assets/136941500/55fe491f-e63f-4633-9652-add347d06f80)
-![cstc](https://github.com/patchzx/webproject.github.io/assets/136941500/fc15a6ea-93f4-42df-a499-a430d5e2f30e)
-![about](https://github.com/patchzx/webproject.github.io/assets/136941500/8af90c67-314d-4fbc-92be-a2e8c096c112)
+
