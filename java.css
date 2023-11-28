@@ -1,0 +1,307 @@
+/* -------------------------------------------------------------------ALL Button------------------ */
+
+.btn{
+    border-radius: 40px;
+    border: 0;
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin: 1rem 0;
+    padding: 2rem 3rem;
+    white-space: nowrap;
+    
+}
+
+
+/*-----------------------------------------------------------------------*/
+
+.h2{
+    text-align: center;
+    background-color: #EC8F5E;
+    margin-top:auto;
+    
+}
+
+
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 0%);
+    background-size:cover;
+    background-color: #F3B664;
+    height: 1900vh;
+}
+
+/* Video Part --------------------------------------------------------------------------1-------- */
+.javapart1{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    border-color: #7C93C3;
+    
+         
+    }
+    
+    .video1{
+        width: 640px; 
+        height: 360px;
+        border: 10px solid #EC8F5E;   
+    }
+
+    
+/* Video Part --------------------------------------------------------------------------2-------- */
+.javapart2{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    border-color: #7C93C3;
+    
+         
+    }
+    
+    .video2{
+        width: 640px; 
+        height: 360px;
+        border: 10px solid #EC8F5E;
+       
+    }
+    
+/* Video Part --------------------------------------------------------------------------3-------- */
+.javapart3{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    border-color: #7C93C3;
+    
+         
+    }
+    
+    .video3{
+        width: 640px; 
+        height: 360px;
+        border: 10px solid #EC8F5E;
+       
+    }
+
+    
+/* Video Part --------------------------------------------------------------------------4-------- */
+.javapart4{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    border-color: #7C93C3;
+    
+         
+    }
+    
+    .video4{
+        width: 640px; 
+        height: 360px;
+        border: 10px solid #EC8F5E;
+       
+    }
+
+    /* Video Part --------------------------------------------------------------------------5-------- */
+.javapart5{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    border-color: #7C93C3;
+    
+         
+    }
+    
+    .video5{
+        width: 640px; 
+        height: 360px;
+        border: 10px solid #EC8F5E;
+       
+    }
+
+    /* Video Part --------------------------------------------------------------------------6-------- */
+.javapart6{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    border-color: #7C93C3;
+    
+         
+    }
+    
+    .video6{
+        width: 640px; 
+        height: 360px;
+        border: 10px solid #EC8F5E;
+       
+    }
+
+ /* Video Part --------------------------------------------------------------------------7-------- */
+ .javapart7{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    border-color: #7C93C3;
+    
+         
+    }
+    
+    .video7{
+        width: 640px; 
+        height: 360px;
+        border: 10px solid #EC8F5E;
+       
+    }
+
+/* Video Part --------------------------------------------------------------------------8-------- */
+.javapart8{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    border-color: #7C93C3;
+    
+         
+    }
+    
+    .video8{
+        width: 640px; 
+        height: 360px;
+        border: 10px solid #EC8F5E;
+       
+    }
+
+    
+/* Video Part --------------------------------------------------------------------------9-------- */
+.javapart9{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    border-color: #7C93C3;
+    
+         
+    }
+    
+    .video9{
+        width: 640px; 
+        height: 360px;
+        border: 10px solid #EC8F5E;
+       
+    }
+    /* Video Part --------------------------------------------------------------------------10-------- */
+.javapart10{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    border-color: #7C93C3;
+    
+         
+    }
+    
+    .video10{
+        width: 640px; 
+        height: 360px;
+        border: 10px solid #EC8F5E;
+       
+    }
+
+    /*Video Part --------------------------------------------------------------------------11-------- */
+    .javapart11{
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 60vh;
+        border-color: #7C93C3;
+        
+             
+        }
+        
+    .video11{
+            width: 640px; 
+            height: 360px;
+            border: 10px solid #EC8F5E;
+           
+        }
+
+/*Video Part --------------------------------------------------------------------------12-------- */
+.javapart12{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    border-color: #7C93C3;
+    
+         
+    }
+    
+.video12{
+        width: 640px; 
+        height: 360px;
+        border: 10px solid #EC8F5E;
+       
+    }
+
+    /*--------------------------------------------------------------*/
+
+    .finish h1{
+        color: #508D69;
+        text-align: center;
+        font-size:xx-large;
+        background-color: #a0e681;
+    }
+    
+    .finish1 h1{
+        color: #302323;
+        text-align: center;
+        font-size: large;
+        background-color:#7C93C3;
+     }
+    .finishlogo {
+        text-align: center;
+        width: auto;
+        height: 220px;
+    }
+    
+    /* -----------------------------------------------*/
+    
+    
+    .btn--outline{
+        background: #47262656;   
+    }
+    
+    
+    .btn--outline:hover{
+        background: rgb(141, 105, 105);
+        color:#ffffff17;
+        text-decoration: none;
+        
+    }
+    
+    .btn--outline a{
+        text-decoration: none;  
+        color: black; 
+      } 
+
+    
+
+
+    

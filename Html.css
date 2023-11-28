@@ -1,0 +1,348 @@
+/* -------------------------------------------------------------------ALL Button------------------ */
+
+.btn{
+    border-radius: 40px;
+    border: 0;
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin: 1rem 0;
+    padding: 2rem 3rem;
+    white-space: nowrap;
+    
+}
+
+
+/*-----------------------------------------------------------------------*/
+
+.h2{
+    text-align: center;
+    background-color: #9ade7ba6;
+    margin-top:auto
+    
+}
+
+
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 0%);
+    background-size:cover;
+    background-color: #EEF296;
+    height: 1550vh;
+}
+
+
+/* Video Part 1 */
+.htmlpart1{
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60vh;
+border-color: brown;
+
+     
+}
+
+.video{
+    width: 640px; 
+    height: 360px;
+    border: 10px solid #9ADE7B;
+   
+}
+
+.hr{
+color: black;
+height: 5px; 
+background-color: #333; 
+border: none;
+}
+
+.btn--primary{
+    background: rgba(30, 143, 255, 0.459);
+    justify-content: center;
+}
+
+.btn--primary a{
+    text-decoration: none;
+    color: black;
+}
+
+.btn--primary:hover{
+background: rgb(20, 21, 22);
+}
+
+
+
+/* Video Part 2 ------------------------------------------------*/
+
+.h2{
+    text-align: center;
+    background-color: #9ade7ba6;
+    margin-top:auto
+    
+}
+
+
+
+
+.htmlpart2{
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60vh;
+border-color: brown;
+
+     
+}
+
+.video2{
+    width: 640px; 
+    height: 360px;
+    border: 10px solid #9ADE7B;
+}
+
+/* Video Part 3 ------------------------------------------------*/
+.h2{
+    text-align: center;
+    background-color: #9ade7ba6;
+    margin-top:auto
+    
+}
+
+
+
+
+.htmlpart3{
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60vh;
+border-color: brown;
+
+     
+}
+
+.video3{
+    width: 640px; 
+    height: 360px;
+    border: 10px solid #9ADE7B;
+}
+
+
+/* Video Part 4 ------------------------------------------------*/
+
+.h2{
+    text-align: center;
+    background-color: #9ade7ba6;
+    margin-top:auto
+    
+}
+
+
+
+
+.htmlpart4{
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60vh;
+border-color: brown;
+
+     
+}
+
+.video4{
+    width: 640px; 
+    height: 360px;
+    border: 10px solid #9ADE7B;
+}
+/* Video Part 5 ------------------------------------------------*/
+.h2{
+    text-align: center;
+    background-color: #9ade7ba6;
+    margin-top:auto
+    
+}
+
+
+
+
+.htmlpart5{
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60vh;
+border-color: brown;
+
+     
+}
+
+.video5{
+    width: 640px; 
+    height: 360px;
+    border: 10px solid #9ADE7B;
+}
+/* Video Part 6 ------------------------------------------------*/
+.h2{
+    text-align: center;
+    background-color: #9ade7ba6;
+    margin-top:auto
+    
+}
+
+.htmlpart6{
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60vh;
+border-color: brown;
+
+     
+}
+
+.video6{
+    width: 640px; 
+    height: 360px;
+    border: 10px solid #9ADE7B;
+}
+/* Video Part 7------------------------------------------------*/
+.h2{
+    text-align: center;
+    background-color: #9ade7ba6;
+    margin-top:auto
+    
+}
+
+.htmlpart7{
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60vh;
+border-color: brown;
+
+     
+}
+
+.video7{
+    width: 640px; 
+    height: 360px;
+    border: 10px solid #9ADE7B;
+}
+/* Video Part 8------------------------------------------------*/
+.h2{
+    text-align: center;
+    background-color: #9ade7ba6;
+    margin-top:auto
+    
+}
+
+.htmlpart8{
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60vh;
+border-color: brown;
+
+     
+}
+
+.video8{
+    width: 640px; 
+    height: 360px;
+    border: 10px solid #9ADE7B;
+}
+
+/* Video Part 9-----------------------------------------------*/
+
+.h2{
+    text-align: center;
+    background-color: #9ade7ba6;
+    margin-top:auto
+    
+}
+
+.htmlpart9{
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60vh;
+border-color: brown;
+
+     
+}
+
+.video9{
+    width: 640px; 
+    height: 360px;
+    border: 10px solid #9ADE7B;
+}
+
+/* Video Part 10-----------------------------------------------*/
+
+.h2{
+    text-align: center;
+    background-color: #9ade7ba6;
+    margin-top:auto
+    
+}
+
+.htmlpart10{
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60vh;
+border-color: brown;
+
+     
+}
+
+.video10{
+    width: 640px; 
+    height: 360px;
+    border: 10px solid #9ADE7B;
+}
+
+/* -----------------------------------------------*/
+
+.finish h1{
+    color: #508D69;
+    text-align: center;
+    font-size:xx-large;
+    background-color: #a0e681;
+}
+
+.finish1 h1{
+    color: #38684c;
+    text-align: center;
+    font-size: large;
+    background-color: #9ADE7B;
+}
+/* -----------------------------------------------*/
+
+
+.btn--outline{
+    background: #47262656;   
+}
+
+
+.btn--outline:hover{
+    background: rgb(141, 105, 105);
+    color:#ffffff17;
+    text-decoration: none;
+    
+}
+
+.btn--outline a{
+    text-decoration: none;  
+    color: black; 
+  } 

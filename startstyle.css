@@ -1,0 +1,92 @@
+.main {
+    width: 100%;
+    background:  url(start.png);
+    background-position: center;
+    background-size:contain;
+    height: 109vh;
+
+
+     /* -------------------------------------------------------------------ALL Button------------------ */
+}
+.btn{
+    border-radius: 40px;
+    border: 0;
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin: 1rem 0;
+    padding: 2rem 3rem;
+    white-space: nowrap;
+}
+/* -------------------------------------------------------------------Primary Button------------------ */
+.btn--primary{
+    background: rgba(30, 143, 255, 0.459);
+}
+
+.btn--primary a{
+    text-decoration: none;
+    color: black;
+}
+
+.btn--primary:hover{
+background: rgb(20, 21, 22);
+}
+/* -------------------------------------------------------------------Secondary Button------------------ */
+.btn--secondary{
+    background: rgba(0, 206, 209, 0.445);
+    color: green;
+}
+
+.btn--secondary:hover{
+    background: rgba(37, 198, 201, 0.336);
+    color: rgb(17, 12, 12);
+}
+
+/* -------------------------------------------------------------------Accent Button------------------ */
+.btn--accent{
+    background: rgba(255, 68, 0, 0.322);
+}
+
+.btn--accent a{
+    text-decoration: none;
+    color:black;
+}
+
+.btn--accent:hover{
+    background: rgb(196, 69, 23);
+    color: rgb(129, 6, 6);
+}
+
+
+/* Outline-------------------------------------------------------------Outline------------------------- */
+.btn--outline{
+    background: #47262656;   
+}
+
+
+.btn--outline:hover{
+    background: rgb(141, 105, 105);
+    color:#ffffff17;
+    text-decoration: none;
+    
+}
+
+.btn--outline a{
+    text-decoration: none;  
+    color: black; 
+  } 
+
+/* -------------------------------------------------------------------block------------------ */
+.btn--block{
+    width: 100%;
+    display: inline-block;
+}
+/* -------------------------------------------------------------------title------------------ */
+.title {
+   color: #455528;
+   text-align: center;
+   text-transform:uppercase;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   padding-top: 10px;
+}
+
+
